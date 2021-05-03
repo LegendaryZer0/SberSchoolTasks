@@ -1,1 +1,0 @@
-Where are verified task from SberVirtualSchool
