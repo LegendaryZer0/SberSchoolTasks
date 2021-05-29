@@ -3,7 +3,7 @@ package ru.task7.streams;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
+//з с файлами с тестами  ( )
 public class Main {
   public static void main(String[] args) {
     Main main = new Main();
